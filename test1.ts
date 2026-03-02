@@ -1,5 +1,7 @@
 // example.ts
 
+//updated
+
 function greet(name: string): string {
   return `Hello, ${name}!`;
 }
